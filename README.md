@@ -142,6 +142,8 @@ ORDER BY
 - Consider increasing sales force or partnerships there.
 
 
+[View full power bi report here](https://app.powerbi.com/groups/me/reports/6dee778d-7465-4bf0-b9bb-aba970e913c8?ctid=6bd0734e-4fc4-4b1c-be23-6e5b6ed0d481&pbi_source=linkShare)
+
 
 
 
