@@ -141,8 +141,13 @@ ORDER BY
 - Launch city-specific campaigns for London and Paris.
 - Consider increasing sales force or partnerships there.
 
+## Challenges Faced
+- Date Misalignment: The budget and sales data covered different periods, causing inconsistencies in comparisons.
+- Incomplete 2025 Sales Data: Sales records existed only for January 2025, while the budget spanned up to June.
+- Customer Data Cleaning: Required SQL transformations like merging names, decoding gender, and linking city data
 
-[View full power bi report here](https://app.powerbi.com/groups/me/reports/6dee778d-7465-4bf0-b9bb-aba970e913c8?ctid=6bd0734e-4fc4-4b1c-be23-6e5b6ed0d481&pbi_source=linkShare)
+
+[View full power bi report here](https://app.powerbi.com/groups/me/reports/6dee778d-7465-4bf0-b9bb-aba970e913c8?ctid=6bd0734e-4fc4-4b1c-be23-6e5b6ed0d481&pbi_source=linkShare&bookmarkGuid=066935f8-0f55-4bc4-89da-f6e16cb5ade4)
 
 
 
